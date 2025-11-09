@@ -1,4 +1,6 @@
 
+
+Challenge 3: Content Swarm AI — The Autonomous Content Factory Autonomous Content Factory adalah sistem AI agentic yang secara otomatis menghasilkan dan memposting konten ke GetCirclo berdasarkan preferensi pengguna dan tren terkini.
 ---
 
 ## 👥 Team Responsibilities Overview
