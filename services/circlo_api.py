@@ -305,11 +305,3 @@ class CircloAPI:
         cleaned = caption.replace('"', "'")
         return cleaned[:220]  # Ensure length limit
 
-    def _get_valid_media_source(self, media_type: str) -> str:
-        """Get valid media source URL based on type"""
-        if media_type == "image":
-            return "https://picsum.photos/800/600"
-        elif media_type == "video":
-            return "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-        else:
-            return "https://picsum.photos/800/600"
