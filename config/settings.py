@@ -7,7 +7,7 @@ class Settings:
     CIRCLO_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEwZmRjNjkxLTIzMDAtNDM4Mi04ODI4LWE1NzI0YjQ5OTNiYiIsImVtYWlsIjoiZGV2QHNlbnRpLmdsb2JhbCIsImlzX2d1ZXN0IjpmYWxzZSwiaWF0IjoxNzYyNTcyMDYzLCJleHAiOjQ5MTgzMzIwNjN9.deShmmIRMKrRS1avZtNwY0u01_QwEcdBeDd_DJ2Qfxw"
 
     # Gemini API - For image and video generation
-    GEMINI_API_KEY = "AIzaSyCf7UaqKDceSF8gXMfXQaONZXCPDDYRHnk"
+    GEMINI_API_KEY = "API_GEMINI"
 
     # API Endpoints
     CIRCLO_BASE_URL = "https://api.getcirclo.com/api"
